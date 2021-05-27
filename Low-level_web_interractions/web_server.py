@@ -11,7 +11,6 @@ class Client(Thread):
         self.conn = conn
 
     def run(self):
-        """Старт сервера"""
         request = self.conn.recv(DATA_SIZE).decode()
         if request != '':
             print(request)
@@ -34,7 +33,6 @@ class Client(Thread):
                                 Content-length: 5000
                                 Connection: close\n\n""" + content
                     except UnicodeDecodeError:
-                        # 8. бинарный тип
                         with open(DEFAULT_FOLDER + webpage, 'rb') as f:
                             content = f.read()
                         response = """HTTP/1.1 200 OK
@@ -47,14 +45,12 @@ class Client(Thread):
                             log.write(str(datetime.now().strftime("%d/%m/%Y %H:%M:%S")) + ' || ' + self.host
                                       + ' || ' + webpage + ' || None\n')
                 except FileNotFoundError:
-                    # 3. Ошибка 404
                     response = 'HTTP/1.0 404 NOT FOUND\n\nPage Not Found!'
                     with lock:
                         with open('log/log.txt', 'a+') as log:
                             log.write(str(datetime.now().strftime("%d/%m/%Y %H:%M:%S")) + ' || ' +
                                       self.host + ' || ' + webpage + ' || 404\n')
             else:
-                # 6. Тип файлов
                 if webpage.split('.')[-1] != "ico":
                     response = 'HTTP/1.0 403 FORBIDDEN\n\nForbidden Error!'
                     with lock:
@@ -76,8 +72,7 @@ SERVER_HOST = config['DEFAULT_HOST'].strip()
 SERVER_PORT = int(config['DEFAULT_PORT'])
 DATA_SIZE = int(config['DATA_SIZE'])
 DEFAULT_FOLDER = config['DEFAULT_FOLDER'].strip()
-# 6. определенные типы
-FILES = ['html', 'js', 'png', 'jpg', 'jpeg']
+FILES = ['html', 'png']
 
 sock = socket()
 sock.bind((SERVER_HOST, SERVER_PORT))
