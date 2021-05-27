@@ -1,0 +1,101 @@
+2021-04-07 18:03:07,796 [INFO] server_connection: Established connection ('127.0.0.1', 2384) with ('127.0.0.1', 9090)
+2021-04-07 18:03:13,100 [INFO] success: Client ('127.0.0.1', 2384) authorized
+2021-04-07 18:03:32,836 [INFO] server_connection: Established connection ('127.0.0.1', 2387) with ('127.0.0.1', 9090)
+2021-04-07 18:04:04,301 [INFO] server_connection: Established connection ('192.168.0.70', 2392) with ('192.168.0.70', 9090)
+2021-04-07 18:04:07,327 [INFO] success: Client ('192.168.0.70', 2392) authorized
+2021-04-07 18:04:09,068 [INFO] polling: Sending data from ('192.168.0.70', 2392): ss
+2021-04-07 18:04:09,069 [INFO] recv: Client ('127.0.0.1', 2384) recieved data: ss
+2021-04-07 18:04:14,163 [INFO] polling: Sending data from ('127.0.0.1', 2384): ss
+2021-04-07 18:04:22,755 [INFO] polling: Sending data from ('127.0.0.1', 2384): ss
+2021-04-07 18:04:29,276 [INFO] polling: Sending data from ('192.168.0.70', 2392): ss
+2021-04-07 18:04:30,340 [INFO] polling: Sending data from ('192.168.0.70', 2392): ss
+2021-04-07 18:14:14,219 [INFO] server_connection: Established connection ('127.0.0.1', 18309) with ('127.0.0.1', 9090)
+2021-04-07 18:16:04,675 [INFO] server_connection: Established connection ('127.0.0.1', 18334) with ('127.0.0.1', 9090)
+2021-04-07 18:17:36,155 [INFO] server_connection: Established connection ('127.0.0.1', 18348) with ('127.0.0.1', 9090)
+2021-04-07 18:18:47,890 [INFO] server_connection: Established connection ('127.0.0.1', 18393) with ('127.0.0.1', 9090)
+2021-04-07 18:18:52,307 [INFO] success: Client ('127.0.0.1', 18393) authorized
+2021-04-07 18:19:02,242 [INFO] server_connection: Established connection ('127.0.0.1', 18398) with ('127.0.0.1', 9090)
+2021-04-07 18:19:06,163 [INFO] success: Client ('127.0.0.1', 18398) authorized
+2021-04-07 18:19:35,786 [INFO] server_connection: Established connection ('192.168.0.70', 18404) with ('192.168.0.70', 9090)
+2021-04-07 18:19:39,270 [INFO] success: Client ('192.168.0.70', 18404) authorized
+2021-04-07 18:19:40,297 [INFO] polling: Sending data from ('192.168.0.70', 18404): ss
+2021-04-07 18:19:40,298 [INFO] recv: Client ('127.0.0.1', 18393) recieved data: ss
+2021-04-07 18:20:00,585 [INFO] polling: Sending data from ('127.0.0.1', 18393): ss
+2021-04-07 18:20:00,586 [INFO] recv: Client ('192.168.0.70', 18404) recieved data: ss
+2021-04-07 18:32:46,185 [INFO] server_connection: Established connection ('127.0.0.1', 18557) with ('127.0.0.1', 9090)
+2021-04-07 18:32:50,294 [INFO] success: Client ('127.0.0.1', 18557) authorized
+2021-04-07 18:32:52,215 [INFO] polling: Sending data from ('127.0.0.1', 18557): ss
+2021-04-07 18:33:09,936 [INFO] server_connection: Established connection ('192.168.0.70', 18560) with ('192.168.0.70', 9090)
+2021-04-07 18:33:13,345 [INFO] success: Client ('192.168.0.70', 18560) authorized
+2021-04-07 18:33:14,760 [INFO] polling: Sending data from ('192.168.0.70', 18560): ss
+2021-04-07 18:33:14,760 [INFO] recv: Client ('127.0.0.1', 18557) recieved data: ss
+2021-04-07 18:33:21,175 [INFO] polling: Sending data from ('127.0.0.1', 18557): ss
+2021-04-07 18:33:21,176 [INFO] recv: Client ('192.168.0.70', 18560) recieved data: ss
+2021-04-07 18:39:00,423 [INFO] server_connection: Established connection ('127.0.0.1', 18660) with ('127.0.0.1', 9090)
+2021-04-07 18:39:05,407 [INFO] polling: Sending data from ('127.0.0.1', 18660): ss
+2021-04-07 18:39:10,122 [INFO] success: Client ('127.0.0.1', 18660) authorized
+2021-04-07 18:39:14,542 [INFO] polling: Sending data from ('127.0.0.1', 18660): ss
+2021-04-07 18:39:26,631 [INFO] server_connection: Established connection ('192.168.0.70', 18661) with ('192.168.0.70', 9090)
+2021-04-07 18:39:30,260 [INFO] success: Client ('192.168.0.70', 18661) authorized
+2021-04-07 18:39:31,422 [INFO] polling: Sending data from ('192.168.0.70', 18661): ss
+2021-04-07 18:39:31,423 [INFO] recv: Client ('127.0.0.1', 18660) recieved data: ss
+2021-04-07 18:39:32,214 [INFO] polling: Sending data from ('192.168.0.70', 18661): ss
+2021-04-07 18:39:32,215 [INFO] recv: Client ('127.0.0.1', 18660) recieved data: ss
+2021-04-07 18:39:39,246 [INFO] polling: Sending data from ('127.0.0.1', 18660): ss
+2021-04-07 18:39:39,247 [INFO] recv: Client ('192.168.0.70', 18661) recieved data: ss
+2021-04-07 18:39:39,967 [INFO] polling: Sending data from ('127.0.0.1', 18660): ss
+2021-04-07 18:39:39,967 [INFO] recv: Client ('192.168.0.70', 18661) recieved data: ss
+2021-04-07 18:41:29,359 [INFO] server_connection: Established connection ('192.168.0.70', 18688) with ('192.168.0.70', 9090)
+2021-04-07 18:41:40,090 [INFO] auth: ('192.168.0.70', 18688) registered
+2021-04-07 18:41:43,938 [INFO] success: Client ('192.168.0.70', 18688) authorized
+2021-04-07 18:41:45,830 [INFO] polling: Sending data from ('192.168.0.70', 18688): ss
+2021-04-07 18:47:03,191 [INFO] server_connection: Established connection ('127.0.0.1', 18762) with ('127.0.0.1', 9090)
+2021-04-07 18:47:07,860 [INFO] success: Client ('127.0.0.1', 18762) authorized
+2021-04-07 18:48:27,527 [INFO] server_connection: Established connection ('127.0.0.1', 18780) with ('127.0.0.1', 9090)
+2021-04-07 18:48:32,829 [INFO] success: Client ('127.0.0.1', 18780) authorized
+2021-04-07 18:48:35,325 [INFO] polling: Sending data from ('127.0.0.1', 18780): ss
+2021-04-07 18:48:55,326 [INFO] server_connection: Established connection ('192.168.0.70', 18788) with ('192.168.0.70', 9090)
+2021-04-07 18:48:58,381 [INFO] polling: Sending data from ('192.168.0.70', 18788): 1234
+2021-04-07 18:50:30,485 [INFO] server_connection: Established connection ('127.0.0.1', 18808) with ('127.0.0.1', 9090)
+2021-04-07 18:50:36,958 [INFO] success: Client ('127.0.0.1', 18808) authorized
+2021-04-07 18:50:38,044 [INFO] polling: Sending data from ('127.0.0.1', 18808): ss
+2021-04-07 18:51:50,534 [INFO] server_connection: Established connection ('192.168.0.70', 18816) with ('192.168.0.70', 9090)
+2021-04-07 18:57:07,493 [INFO] server_connection: Established connection ('127.0.0.1', 18886) with ('127.0.0.1', 9090)
+2021-04-07 18:57:13,513 [INFO] success: Client ('127.0.0.1', 18886) authorized
+2021-04-07 18:57:15,300 [INFO] polling: Sending data from ('127.0.0.1', 18886): ss
+2021-04-07 18:57:26,277 [INFO] server_connection: Established connection ('192.168.0.70', 18888) with ('192.168.0.70', 9090)
+2021-04-07 18:59:16,781 [INFO] server_connection: Established connection ('127.0.0.1', 18950) with ('127.0.0.1', 9090)
+2021-04-07 18:59:22,553 [INFO] success: Client ('127.0.0.1', 18950) authorized
+2021-04-07 18:59:36,549 [INFO] server_connection: Established connection ('192.168.0.70', 18956) with ('192.168.0.70', 9090)
+2021-04-07 19:03:16,172 [INFO] server_connection: Established connection ('192.168.0.70', 19032) with ('192.168.0.70', 9090)
+2021-04-07 19:03:23,078 [INFO] success: Client ('192.168.0.70', 19032) authorized
+2021-04-07 19:03:54,069 [INFO] server_connection: Established connection ('127.0.0.1', 19035) with ('127.0.0.1', 9090)
+2021-04-07 19:06:33,412 [INFO] server_connection: Established connection ('127.0.0.1', 19124) with ('127.0.0.1', 9090)
+2021-04-07 19:06:37,469 [INFO] success: Client ('127.0.0.1', 19124) authorized
+2021-04-07 19:06:49,883 [INFO] server_connection: Established connection ('192.168.0.70', 19127) with ('192.168.0.70', 9090)
+2021-04-07 19:06:53,263 [INFO] success: Client ('192.168.0.70', 19127) authorized
+2021-04-07 19:06:55,419 [INFO] polling: Sending data from ('192.168.0.70', 19127): ss
+2021-04-07 19:06:55,420 [INFO] recv: Client ('127.0.0.1', 19124) recieved data: ss
+2021-04-07 19:06:58,955 [INFO] polling: Sending data from ('127.0.0.1', 19124): ss
+2021-04-07 19:06:58,956 [INFO] recv: Client ('192.168.0.70', 19127) recieved data: ss
+2021-04-07 19:46:25,230 [INFO] server_connection: Established connection ('127.0.0.1', 19684) with ('127.0.0.1', 9090)
+2021-04-07 19:46:29,033 [INFO] success: Client ('127.0.0.1', 19684) authorized
+2021-04-07 19:46:43,461 [INFO] polling: Sending data from ('127.0.0.1', 19684): ss
+2021-04-07 19:47:18,822 [INFO] server_connection: Established connection ('192.168.0.70', 19692) with ('192.168.0.70', 9090)
+2021-04-07 19:47:23,192 [INFO] success: Client ('192.168.0.70', 19692) authorized
+2021-04-07 19:47:25,677 [INFO] polling: Sending data from ('192.168.0.70', 19692): ss
+2021-04-07 19:47:25,678 [INFO] recv: Client ('127.0.0.1', 19684) recieved data: ss
+2021-04-07 19:47:29,301 [INFO] polling: Sending data from ('127.0.0.1', 19684): ss
+2021-04-07 19:47:29,302 [INFO] recv: Client ('192.168.0.70', 19692) recieved data: ss
+2021-04-07 19:47:31,165 [INFO] polling: Sending data from ('127.0.0.1', 19684): ss
+2021-04-07 19:47:31,166 [INFO] recv: Client ('192.168.0.70', 19692) recieved data: ss
+2021-04-07 20:27:13,424 [INFO] server_connection: Established connection ('127.0.0.1', 20026) with ('127.0.0.1', 9090)
+2021-04-07 20:27:31,736 [INFO] polling: Sending data from ('127.0.0.1', 20026): 1234
+2021-04-07 20:28:49,792 [INFO] server_connection: Established connection ('127.0.0.1', 20050) with ('127.0.0.1', 9090)
+2021-04-07 20:30:28,696 [INFO] server_connection: Established connection ('127.0.0.1', 20090) with ('127.0.0.1', 9090)
+2021-04-07 20:30:32,135 [INFO] polling: Sending data from ('127.0.0.1', 20090): 1234
+2021-04-07 20:30:32,135 [INFO] success: Client ('127.0.0.1', 20090) authorized
+2021-04-07 20:30:37,255 [INFO] polling: Sending data from ('127.0.0.1', 20090): ss
+2021-04-07 20:30:38,655 [INFO] polling: Sending data from ('127.0.0.1', 20090): ss
+2021-04-07 20:32:31,008 [INFO] server_connection: Established connection ('127.0.0.1', 20110) with ('127.0.0.1', 9090)
+2021-04-07 22:03:14,091 [INFO] server_connection: Established connection ('127.0.0.1', 20805) with ('127.0.0.1', 9090)

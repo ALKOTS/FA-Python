@@ -1,0 +1,14 @@
+[
+    {
+        "127.0.0.1": {
+            "name": "ALKOTS1",
+            "password": "1fadcf6eb4345975be993f237c51d426"
+        }
+    },
+    {
+        "192.168.0.70": {
+            "name": "ALKOTS2",
+            "password": "1fadcf6eb4345975be993f237c51d426"
+        }
+    }
+]

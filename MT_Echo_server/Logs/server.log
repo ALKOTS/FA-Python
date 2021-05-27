@@ -1,0 +1,101 @@
+2021-04-07 18:00:38,593 [INFO] server_boot: Server started, port: 9090
+2021-04-07 18:03:07,797 [INFO] server_boot: Client: ('127.0.0.1', 2384)
+2021-04-07 18:03:32,836 [INFO] server_boot: Client: ('127.0.0.1', 2387)
+2021-04-07 18:04:04,301 [INFO] server_boot: Client: ('192.168.0.70', 2392)
+2021-04-07 18:04:09,068 [INFO] listenToClient: Recieving from 'ALKOTS2_2392': ss
+2021-04-07 18:04:09,068 [INFO] broadcast: Sending to ('127.0.0.1', 9090): ss
+2021-04-07 18:04:14,163 [INFO] listenToClient: Recieving from 'ALKOTS1_2384': ss
+2021-04-07 18:13:53,601 [INFO] server_boot: Server started, port: 9090
+2021-04-07 18:14:14,220 [INFO] server_boot: Client: ('127.0.0.1', 18309)
+2021-04-07 18:15:49,478 [INFO] server_boot: Server started, port: 9090
+2021-04-07 18:16:04,676 [INFO] server_boot: Client: ('127.0.0.1', 18334)
+2021-04-07 18:17:36,155 [INFO] server_boot: Client: ('127.0.0.1', 18348)
+2021-04-07 18:18:34,521 [INFO] server_boot: Server started, port: 9090
+2021-04-07 18:18:47,890 [INFO] server_boot: Client: ('127.0.0.1', 18393)
+2021-04-07 18:19:02,242 [INFO] server_boot: Client: ('127.0.0.1', 18398)
+2021-04-07 18:19:10,307 [INFO] listenToClient: Disconnecting ('127.0.0.1', 18398)
+2021-04-07 18:19:35,786 [INFO] server_boot: Client: ('192.168.0.70', 18404)
+2021-04-07 18:19:40,297 [INFO] listenToClient: Recieving from 'ALKOTS2_18404': ss
+2021-04-07 18:19:40,298 [INFO] broadcast: Sending to ('127.0.0.1', 9090): ss
+2021-04-07 18:20:00,585 [INFO] listenToClient: Recieving from 'ALKOTS1_18393': ss
+2021-04-07 18:20:00,586 [INFO] broadcast: Sending to ('192.168.0.70', 9090): ss
+2021-04-07 18:32:36,780 [INFO] server_boot: Server started, port: 9090
+2021-04-07 18:32:46,185 [INFO] server_boot: Client: ('127.0.0.1', 18557)
+2021-04-07 18:32:52,215 [INFO] listenToClient: Recieving from 'ALKOTS1_18557': ss
+2021-04-07 18:33:09,937 [INFO] server_boot: Client: ('192.168.0.70', 18560)
+2021-04-07 18:33:14,760 [INFO] listenToClient: Recieving from 'ALKOTS2_18560': ss
+2021-04-07 18:33:14,760 [INFO] broadcast: Sending to ('127.0.0.1', 9090): ss
+2021-04-07 18:33:21,175 [INFO] listenToClient: Recieving from 'ALKOTS1_18557': ss
+2021-04-07 18:33:21,176 [INFO] broadcast: Sending to ('192.168.0.70', 9090): ss
+2021-04-07 18:38:51,186 [INFO] server_boot: Server started, port: 9090
+2021-04-07 18:39:00,424 [INFO] server_boot: Client: ('127.0.0.1', 18660)
+2021-04-07 18:39:14,542 [INFO] listenToClient: Recieving from 'ALKOTS1_18660': ss
+2021-04-07 18:39:26,632 [INFO] server_boot: Client: ('192.168.0.70', 18661)
+2021-04-07 18:39:31,422 [INFO] listenToClient: Recieving from 'ALKOTS2_18661': ss
+2021-04-07 18:39:31,423 [INFO] broadcast: Sending to ('127.0.0.1', 9090): ss
+2021-04-07 18:39:32,214 [INFO] listenToClient: Recieving from 'ALKOTS2_18661': ss
+2021-04-07 18:39:32,215 [INFO] broadcast: Sending to ('127.0.0.1', 9090): ss
+2021-04-07 18:39:39,246 [INFO] listenToClient: Recieving from 'ALKOTS1_18660': ss
+2021-04-07 18:39:39,247 [INFO] broadcast: Sending to ('192.168.0.70', 9090): ss
+2021-04-07 18:39:39,967 [INFO] listenToClient: Recieving from 'ALKOTS1_18660': ss
+2021-04-07 18:39:39,967 [INFO] broadcast: Sending to ('192.168.0.70', 9090): ss
+2021-04-07 18:39:58,851 [INFO] server_boot: Server started, port: 9090
+2021-04-07 18:41:29,359 [INFO] server_boot: Client: ('192.168.0.70', 18688)
+2021-04-07 18:41:45,830 [INFO] listenToClient: Recieving from 'ALKOTS2_18688': ss
+2021-04-07 18:41:49,391 [INFO] listenToClient: Disconnecting ('192.168.0.70', 18688)
+2021-04-07 18:46:43,021 [INFO] server_boot: Server started, port: 9090
+2021-04-07 18:47:03,191 [INFO] server_boot: Client: ('127.0.0.1', 18762)
+2021-04-07 18:47:31,124 [INFO] server_boot: Server started, port: 9090
+2021-04-07 18:48:27,527 [INFO] server_boot: Client: ('127.0.0.1', 18780)
+2021-04-07 18:48:35,325 [INFO] listenToClient: Recieving from 'ALKOTS1_18780': ss
+2021-04-07 18:48:55,327 [INFO] server_boot: Client: ('192.168.0.70', 18788)
+2021-04-07 18:50:24,640 [INFO] server_boot: Server started, port: 9090
+2021-04-07 18:50:30,486 [INFO] server_boot: Client: ('127.0.0.1', 18808)
+2021-04-07 18:50:38,044 [INFO] listenToClient: Recieving from 'ALKOTS1_18808': ss
+2021-04-07 18:51:50,534 [INFO] server_boot: Client: ('192.168.0.70', 18816)
+2021-04-07 18:56:56,351 [INFO] server_boot: Server started, port: 9090
+2021-04-07 18:57:07,494 [INFO] server_boot: Client: ('127.0.0.1', 18886)
+2021-04-07 18:57:15,300 [INFO] listenToClient: Recieving from 'ALKOTS1_18886': ss
+2021-04-07 18:57:26,277 [INFO] server_boot: Client: ('192.168.0.70', 18888)
+2021-04-07 18:58:17,188 [INFO] listenToClient: Disconnecting ('127.0.0.1', 18886)
+2021-04-07 18:58:57,833 [INFO] server_boot: Server started, port: 9090
+2021-04-07 18:59:16,782 [INFO] server_boot: Client: ('127.0.0.1', 18950)
+2021-04-07 18:59:36,549 [INFO] server_boot: Client: ('192.168.0.70', 18956)
+2021-04-07 19:02:51,267 [INFO] server_boot: Server started, port: 9090
+2021-04-07 19:03:16,173 [INFO] server_boot: Client: ('192.168.0.70', 19032)
+2021-04-07 19:03:54,069 [INFO] server_boot: Client: ('127.0.0.1', 19035)
+2021-04-07 19:05:46,944 [INFO] server_boot: Server started, port: 9090
+2021-04-07 19:06:20,973 [INFO] server_boot: Server started, port: 9090
+2021-04-07 19:06:33,413 [INFO] server_boot: Client: ('127.0.0.1', 19124)
+2021-04-07 19:06:49,884 [INFO] server_boot: Client: ('192.168.0.70', 19127)
+2021-04-07 19:06:55,419 [INFO] listenToClient: Recieving from 'ALKOTS2_19127': ss
+2021-04-07 19:06:55,419 [INFO] broadcast: Sending to ('127.0.0.1', 9090): ss
+2021-04-07 19:06:58,954 [INFO] listenToClient: Recieving from 'ALKOTS1_19124': ss
+2021-04-07 19:06:58,955 [INFO] broadcast: Sending to ('192.168.0.70', 9090): ss
+2021-04-07 19:07:05,351 [INFO] listenToClient: Disconnecting ('192.168.0.70', 19127)
+2021-04-07 19:07:05,358 [INFO] listenToClient: Disconnecting ('127.0.0.1', 19124)
+2021-04-07 19:46:06,802 [INFO] server_boot: Server started, port: 9090
+2021-04-07 19:46:25,231 [INFO] server_boot: Client: ('127.0.0.1', 19684)
+2021-04-07 19:46:43,461 [INFO] listenToClient: Recieving from 'ALKOTS1_19684': ss
+2021-04-07 19:47:18,823 [INFO] server_boot: Client: ('192.168.0.70', 19692)
+2021-04-07 19:47:25,677 [INFO] listenToClient: Recieving from 'ALKOTS2_19692': ss
+2021-04-07 19:47:25,678 [INFO] broadcast: Sending to ('127.0.0.1', 9090): ss
+2021-04-07 19:47:29,301 [INFO] listenToClient: Recieving from 'ALKOTS1_19684': ss
+2021-04-07 19:47:29,302 [INFO] broadcast: Sending to ('192.168.0.70', 9090): ss
+2021-04-07 19:47:31,165 [INFO] listenToClient: Recieving from 'ALKOTS1_19684': ss
+2021-04-07 19:47:31,165 [INFO] broadcast: Sending to ('192.168.0.70', 9090): ss
+2021-04-07 20:24:16,534 [INFO] listenToClient: Disconnecting ('192.168.0.70', 19692)
+2021-04-07 20:24:16,545 [INFO] listenToClient: Disconnecting ('127.0.0.1', 19684)
+2021-04-07 20:27:00,500 [INFO] server_boot: Server started, port: 9090
+2021-04-07 20:27:13,425 [INFO] server_boot: Client: ('127.0.0.1', 20026)
+2021-04-07 20:27:46,288 [INFO] listenToClient: Disconnecting ('127.0.0.1', 20026)
+2021-04-07 20:28:49,793 [INFO] server_boot: Client: ('127.0.0.1', 20050)
+2021-04-07 20:30:08,467 [INFO] server_boot: Server started, port: 9090
+2021-04-07 20:30:28,697 [INFO] server_boot: Client: ('127.0.0.1', 20090)
+2021-04-07 20:30:37,255 [INFO] listenToClient: Recieving from 'ALKOTS1_20090': ss
+2021-04-07 20:30:38,655 [INFO] listenToClient: Recieving from 'ALKOTS1_20090': ss
+2021-04-07 20:30:47,681 [INFO] listenToClient: Disconnecting ('127.0.0.1', 20090)
+2021-04-07 20:32:26,204 [INFO] server_boot: Server started, port: 9090
+2021-04-07 20:32:31,009 [INFO] server_boot: Client: ('127.0.0.1', 20110)
+2021-04-07 22:03:05,613 [INFO] server_boot: Server started, port: 9090
+2021-04-07 22:03:14,092 [INFO] server_boot: Client: ('127.0.0.1', 20805)
